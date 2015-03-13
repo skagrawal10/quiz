@@ -1,0 +1,4 @@
+Code refactoring
+1. First we need to add synchronized in read and write function 
+2. In SaveContent function, we need to check if content is null 
+3. We need to close the stream when we are done with reading and writing the file.
